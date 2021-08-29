@@ -39,7 +39,7 @@ To build the back end for an e-commerce site and also configure a working Expres
 [![Watch the video](https://github.com/ahrumnoh/ReadmeGenerator/blob/main/Image/Check%20the%20video%20NOW%20(1).jpg?raw=true)](https://drive.google.com/file/d/18qdX5A_qcp7NijERUVEvgeyQ2P6BiQeK/view)
 
  ✨ Part2 - Insomnia 
- 
+
 [![Watch the video](https://github.com/ahrumnoh/ReadmeGenerator/blob/main/Image/Check%20the%20video%20NOW%20(1).jpg?raw=true)](https://drive.google.com/file/d/1sn0geS0TWLMqxxV-lMevRDo4n-PNHfzd/view)
 
 
@@ -59,9 +59,10 @@ The user should clone the repository from GitHub and Use the schema.sql file in 
 * ✔$ npm install
 * ✔$ npm install inquirer
 
+* ✔$ node seeds/index
+
 ## Usage in VS code
 * ✔$ npm start
-* ✔$ node seeds/index
 * ✔$ node index.js
 
 

@@ -2,7 +2,7 @@
 
 ## ⛅Welcome to 'E-Coomerce Back-End'
 
-![Readme Generator]()
+![Readme Generator](https://github.com/ahrumnoh/E_CommerceBackEnd/blob/main/image/E-%20Commerce%20Back-end.jpg?raw=true)
 
 
 
@@ -32,15 +32,21 @@ To build the back end for an e-commerce site and also configure a working Expres
 
 ## 🚩How to execute it? Check the DEMO Video for instruction
 
+![Watch the video](https://github.com/ahrumnoh/ReadmeGenerator/blob/main/Image/Check%20the%20video%20NOW%20(1).jpg?raw=true)
+
+
+
+
  * Click the picture below 👇
+ 
 
  🎇 Part1 - VScode using node index.js
 
-[![Watch the video](https://github.com/ahrumnoh/ReadmeGenerator/blob/main/Image/Check%20the%20video%20NOW%20(1).jpg?raw=true)](https://drive.google.com/file/d/18qdX5A_qcp7NijERUVEvgeyQ2P6BiQeK/view)
+[![Watch the video](https://github.com/ahrumnoh/E_CommerceBackEnd/blob/main/image/Screenshot%20(45).png?raw=true)](https://drive.google.com/file/d/18qdX5A_qcp7NijERUVEvgeyQ2P6BiQeK/view)
 
  ✨ Part2 - Insomnia 
 
-[![Watch the video](https://github.com/ahrumnoh/ReadmeGenerator/blob/main/Image/Check%20the%20video%20NOW%20(1).jpg?raw=true)](https://drive.google.com/file/d/1sn0geS0TWLMqxxV-lMevRDo4n-PNHfzd/view)
+[![Watch the video](https://github.com/ahrumnoh/E_CommerceBackEnd/blob/main/image/Screenshot%20(44).png?raw=true)](https://drive.google.com/file/d/1sn0geS0TWLMqxxV-lMevRDo4n-PNHfzd/view)
 
 
 

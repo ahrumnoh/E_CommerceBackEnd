@@ -58,11 +58,11 @@ The user should clone the repository from GitHub and Use the schema.sql file in 
 
 
 > **⚠ .NPM SETUP.**  
-> $ npm init -y
-> $ npm install
-> $ npm install inquirer
+> * $ npm init -y
+> * $ npm install
+> * $ npm install inquirer
 
-> $ node seeds/index
+> * $ node seeds/index
 
 ## Usage in VS code
 * ✔$ npm start

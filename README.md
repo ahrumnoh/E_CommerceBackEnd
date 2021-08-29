@@ -41,26 +41,27 @@ To build the back end for an e-commerce site and also configure a working Expres
 
 The user should clone the repository from GitHub and Use the schema.sql file in the db folder to create your database with MySQL shell commands
 
-
+<!--START_SECTION:example-section-->
 * Change '.env.EXAMPLE' ---> '.env'
 * Your details must be put into the file as DB_USER='', DB_PW='' in '.env'file
-===============================================================================
+<!--END_SECTION:example-section-->
+
 
 * mysql -u root -p
 * source db/schema.sql
 * DROP DATABASE IF EXISTS ecommerce_db;
 * CREATE DATABASE ecommerce_db;
 * quit
-===============================================================================
+
 
 * ✔$ npm init -y
 * ✔$ npm install
 * ✔$ npm install inquirer
 
-===============================================================================
+
 
 * ✔$ node seeds/index
-===============================================================================
+
 
 ## Usage in VS code
 * ✔$ npm start

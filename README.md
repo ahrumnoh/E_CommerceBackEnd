@@ -41,6 +41,10 @@ To build the back end for an e-commerce site and also configure a working Expres
 
 The user should clone the repository from GitHub and Use the schema.sql file in the db folder to create your database with MySQL shell commands
 
+
+* Change '.env.EXAMPLE' ---> '.env'
+* Your details into the file as DB_USER='', DB_PW='' 
+
 * mysql -u root -p
 * source db/schema.sql
 * DROP DATABASE IF EXISTS ecommerce_db;

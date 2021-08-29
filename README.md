@@ -37,14 +37,14 @@ To build the back end for an e-commerce site and also configure a working Expres
 
 
 
- * Click the picture below 👇
- 
+ ## Click the picture below 👇
 
- 🎇 Part1 - VScode using node index.js
+
+ 🎇 Part1 - Demo Video - node index.js :https://drive.google.com/file/d/18qdX5A_qcp7NijERUVEvgeyQ2P6BiQeK/view
 
 [![Watch the video](https://github.com/ahrumnoh/E_CommerceBackEnd/blob/main/image/Screenshot%20(45).png?raw=true)](https://drive.google.com/file/d/18qdX5A_qcp7NijERUVEvgeyQ2P6BiQeK/view)
 
- ✨ Part2 - Insomnia 
+ ✨ Part2 - Demo video Insomnia  : https://drive.google.com/file/d/1sn0geS0TWLMqxxV-lMevRDo4n-PNHfzd/view
 
 [![Watch the video](https://github.com/ahrumnoh/E_CommerceBackEnd/blob/main/image/Screenshot%20(44).png?raw=true)](https://drive.google.com/file/d/1sn0geS0TWLMqxxV-lMevRDo4n-PNHfzd/view)
 
@@ -53,6 +53,7 @@ To build the back end for an e-commerce site and also configure a working Expres
 
 
 ## Installation in VS code
+
 The user should clone the repository from GitHub and Use the schema.sql file in the db folder to create your database with MySQL shell commands
 
 * mysql -u root -p

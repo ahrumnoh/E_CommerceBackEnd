@@ -43,19 +43,24 @@ The user should clone the repository from GitHub and Use the schema.sql file in 
 
 
 * Change '.env.EXAMPLE' ---> '.env'
-* Your details must be put into the file as DB_USER='', DB_PW='' 
+* Your details must be put into the file as DB_USER='', DB_PW='' in '.env'file
+===============================================================================
 
 * mysql -u root -p
 * source db/schema.sql
 * DROP DATABASE IF EXISTS ecommerce_db;
 * CREATE DATABASE ecommerce_db;
 * quit
+===============================================================================
 
 * ✔$ npm init -y
 * ✔$ npm install
 * ✔$ npm install inquirer
 
+===============================================================================
+
 * ✔$ node seeds/index
+===============================================================================
 
 ## Usage in VS code
 * ✔$ npm start

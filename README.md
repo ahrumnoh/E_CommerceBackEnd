@@ -43,7 +43,7 @@ The user should clone the repository from GitHub and Use the schema.sql file in 
 
 
 * Change '.env.EXAMPLE' ---> '.env'
-* Your details into the file as DB_USER='', DB_PW='' 
+* Your details must be put into the file as DB_USER='', DB_PW='' 
 
 * mysql -u root -p
 * source db/schema.sql
